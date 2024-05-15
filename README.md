@@ -1,7 +1,5 @@
 # Analysis-of-Virat-Kohli-performance-on-Odi-T20-Test-index-dashboard-
 
-work on your Power BI project, here are a few points to consider:
-
 1. objectives: Clearly outline what I  want to achieve with Virat Kohli performance dashboard. Am I  looking to analyze his batting average, strike rate and comparison to opponents team performance.
 
 2. Gather data: Collect the relevant data for  analysis and using ETL process and  the data is reliable to  cricket statistics databases.
